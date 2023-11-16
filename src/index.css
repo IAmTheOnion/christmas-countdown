@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://img.freepik.com/free-vector/damask-seamless-pattern-background_1217-846.jpg?w=826&t=st=1700119928~exp=1700120528~hmac=bbcbd42b994adb27f37a22ce5d5a1a88e2824cd043473d4b992e20d96e8fd33e);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#container {
+  width: 80%;
+  height: 700px;
+  text-align: center;
+  padding: 5%;
+  margin-left: 5%;
+  margin-top: 5%;
+  background-color: rgb(250, 235, 235);
+  border-radius: 2%;
+  border: 3px solid rgb(142, 69, 69);
+  color: rgb(142, 69, 69);
+  font-size: 180%;
+  font-weight: bold;
+}
